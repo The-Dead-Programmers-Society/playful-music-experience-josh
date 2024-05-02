@@ -1,5 +1,9 @@
 extends Node2D
 
+@onready var maracas:AudioStreamPlayer = $Maracas/Button11/MaracaShake
+@onready var bongosl:AudioStreamPlayer = $Bongos/Button12/BongosL
+@onready var bongosr:AudioStreamPlayer = $Bongos/Button13/BongosR
+@onready var tambo:AudioStreamPlayer = $Tambourine/Button14/Tambo
 
 func _on_button_pressed():
 	$Piano/Button/PianoC.play()
@@ -42,17 +46,28 @@ func _on_button_10_pressed():
 
 
 func _on_button_11_pressed():
-	$Maracas/Button11/MaracaShake.play()
+	if maracas.playing:
+		maracas.stop()
+	else:
+		maracas.play()
 
 
 func _on_button_12_pressed():
-	$Bongos/Button12/BongosL.play()
+	if bongosl.playing:
+		bongosl.stop()
+	else:
+		bongosl.play()
 
 
 func _on_button_13_pressed():
-	$Bongos/Button13/BongosR.play()
-
+	if bongosr.playing:
+		bongosr.stop()
+	else:
+		bongosr.play()
 
 
 func _on_button_14_pressed():
-	$Tambourine/Button14/Tambo.play()
+	if tambo.playing:
+		tambo.stop()
+	else:
+		tambo.play()

@@ -1,0 +1,29 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1714072671
+Button.gd::GDScript::-1::1713439073::0::1::::<>Button<>::
+Forest.jpg::CompressedTexture2D::2813497743765212829::1713991678::1713991687::1::::<><>::
+icon.svg::CompressedTexture2D::232544026271838094::1708004479::1708004492::1::::<><>::
+Music.gd::GDScript::-1::1713992113::0::1::::<>Node2D<>::
+Music.tscn::PackedScene::776222464159782174::1714005689::0::1::::<><>::uid://btcaagbcfdb2n::::res://instruments/piano.png<>res://Music.gd<>uid://bb08ijagjx53n::::res://audio/Piano C.wav<>uid://bgc45qxe64kgr::::res://Forest.jpg<>uid://cgslkujnsyqub::::res://instruments/bongos.png<>uid://ca2smmqhwgq3a::::res://instruments/maracas.png<>uid://dccfpgbue64gu::::res://audio/Piano A.wav<>uid://bxpofpc76u34i::::res://audio/Piano B.wav<>uid://bcpysp2ti5mia::::res://audio/Piano D.wav<>uid://bjf0gnhew4q2t::::res://audio/Piano E.wav<>uid://yjcioavn573g::::res://audio/Piano F.wav<>uid://c3n48dt6wq775::::res://audio/Piano G.wav<>uid://758i6qpdbn56::::res://audio/Piano C#.wav<>uid://bulsfp8jjo1bi::::res://audio/Maracas.wav<>uid://ycvvnctsnyeg::::res://audio/Piano F#.wav<>uid://d1w7ohhq4k6k1::::res://audio/Piano G#.wav<>uid://c2tlwp22oymxt::::res://audio/BongosL.wav<>uid://wy176g3wgg26::::res://audio/BongosR.mp3<>uid://bwh6t1cwnpl5s::::res://instruments/Tambourine.png<>uid://cp4kp2005oo5s::::res://audio/Tambourine.wav
+::res://audio/::1713992134
+BongosL.mp3::AudioStreamMP3::4876697368937074182::1713711812::1713984141::1::::<><>::
+BongosL.wav::AudioStreamWAV::6707871328132945553::1713991501::1713991538::1::::<><>::
+BongosR.mp3::AudioStreamMP3::1595337052145547741::1713711812::1713984136::1::::<><>::
+Maracas.wav::AudioStreamWAV::3814008385838051186::1713473550::1713983736::1::::<><>::
+Piano A#.wav::AudioStreamWAV::8509901814034921742::1713711812::1713711812::1::::<><>::
+Piano A.wav::AudioStreamWAV::7304099183336104524::1713438698::1713438715::1::::<><>::
+Piano B.wav::AudioStreamWAV::4032589512983037922::1713438698::1713438715::1::::<><>::
+Piano C#.wav::AudioStreamWAV::2309993929777682919::1713438698::1713438715::1::::<><>::
+Piano C.wav::AudioStreamWAV::2510237391290890821::1713438698::1713438715::1::::<><>::
+Piano D.wav::AudioStreamWAV::2559254219831874128::1713438698::1713438715::1::::<><>::
+Piano E.wav::AudioStreamWAV::3029971498617765489::1713438698::1713438715::1::::<><>::
+Piano F#.wav::AudioStreamWAV::1689974248122021974::1713438698::1713438715::1::::<><>::
+Piano F.wav::AudioStreamWAV::1703248103735722654::1713438698::1713438715::1::::<><>::
+Piano G#.wav::AudioStreamWAV::9031556620383887306::1713438698::1713438715::1::::<><>::
+Piano G.wav::AudioStreamWAV::6766785812402873822::1713438698::1713438715::1::::<><>::
+Tambourine.wav::AudioStreamWAV::5886176391587766902::1713992082::1713992134::1::::<><>::
+::res://instruments/::1713992089
+bongos.png::CompressedTexture2D::5231820038632872105::1713281411::1713438646::1::::<><>::
+maracas.png::CompressedTexture2D::4829694557487246184::1713281427::1713438646::1::::<><>::
+piano.png::CompressedTexture2D::3724137785106413711::1713279438::1713438650::1::::<><>::
+Tambourine.png::CompressedTexture2D::3946943414582452930::1713991941::1713991953::1::::<><>::
